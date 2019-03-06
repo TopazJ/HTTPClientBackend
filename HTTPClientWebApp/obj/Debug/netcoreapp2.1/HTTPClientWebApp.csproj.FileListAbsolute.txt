@@ -1,0 +1,14 @@
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.csprojAssemblyReference.cache
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.csproj.CoreCompileInputs.cache
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.RazorAssemblyInfo.cache
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.RazorAssemblyInfo.cs
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.AssemblyInfoInputs.cache
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.AssemblyInfo.cs
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\bin\Debug\netcoreapp2.1\HTTPClientWebApp.deps.json
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\bin\Debug\netcoreapp2.1\HTTPClientWebApp.runtimeconfig.json
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\bin\Debug\netcoreapp2.1\HTTPClientWebApp.runtimeconfig.dev.json
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\bin\Debug\netcoreapp2.1\HTTPClientWebApp.dll
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\bin\Debug\netcoreapp2.1\HTTPClientWebApp.pdb
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.dll
+C:\Users\mesta\Documents\GitHub\HTTPClientBackend\HTTPClientWebApp\obj\Debug\netcoreapp2.1\HTTPClientWebApp.pdb
